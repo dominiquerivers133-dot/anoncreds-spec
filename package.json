@@ -9,7 +9,7 @@
     "url": "git://github.com/anoncreds/anoncreds-spec"
   },
   "dependencies": {
-    "spec-up": "git+https://github.com/andrewwhitehead/spec-up.git#fix-katex-path"
+    "spec-up": "0.11.0"
   },
   "devDependencies": {
     "ace-custom-element": "1.6.5",
